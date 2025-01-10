@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Title2_SVM_KNN"
+		},
+		{
+			"path": "../Title3_SVM_CNN"
+		},
+		{
+			"path": "../Title4_SVM_CNN_Accuracy"
+		}
+	]
+}
